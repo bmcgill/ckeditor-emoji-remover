@@ -1,7 +1,7 @@
 # Remove emoji from CKEDITOR
 This is a simple plugin that will remove emoji characters when content is saved.
 
-Emojis can be fun but are not always appropriate or feasable to support due to database restrictions. Originally created for use in Drupal on a system with a version of MYSQL that does not suport utftmb4.
+Emojis can be fun but are not always appropriate or feasible to support due to database restrictions. Originally created for use in Drupal 7 on a system with a version of MYSQL that does not support utf8mb4.
 
 ### Sites used for reference:
 - http://drupal.org/node/2043439
